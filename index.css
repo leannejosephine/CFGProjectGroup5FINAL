@@ -276,4 +276,18 @@ button:hover {
     font-family: 'Prata', serif;
 }
 
-    /* IDs for Nav Bar
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #F2DDCF;
+    color: #323234;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#back-to-top:hover {
+    background-color: #fff;
+}
